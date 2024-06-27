@@ -1,3 +1,3 @@
-this is link for GitHub Redme datagenerator 
+this is link for GitHub Redme generator 
 
 https://rahuldkjain.github.io/gh-profile-readme-generator/
